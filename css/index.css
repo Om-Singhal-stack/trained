@@ -1,0 +1,122 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+/* #heading1{
+    display: inline-block;
+   font-size: 20px;
+   color: red;
+   background-color: yellow ;
+}
+.heading-2{
+   display: inline-block;
+   color: yellow;
+   background-color: red;
+}
+.big_text{ */
+    /* font-size: 32px; */
+    /*  margin: 90px 29px 3px;   top left&right bottom */
+/* } */
+
+/* .parent{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+} */
+/* .child{
+    width: 10%;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: red;
+} */
+/* .parent{
+   font-size: 32px;
+}
+
+.child{ */
+ /* font-size: 16px; */
+ /* font-size: 1em; font size depends in the parent font size but all other prop. dpends on own font size*/
+ /* font-size: 4rem; similar to the em but depends on the root parent (means html) */
+ 
+ 
+/* } */
+ 
+
+/* note1 */
+/* id have the highest priority */
+/* after that recent class has the highest priority */
+/* at last tag name has the priority */
+
+/* note2
+css specificity */
+/* 
+.btn{
+    display: block;
+    padding: 16px;
+    width: 120px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.btn-small{
+    scale: .8;
+
+}
+#sec{
+    background-color: red;
+    height: 100vh;
+} */
+/* 
+#item{
+    max-height: 200px;
+    overflow: scroll;
+    background-color: orchid;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scrollbar-3dlight-color: black;
+} */
+/* .parent{
+    margin: 0px 0px 50px 0px;
+}
+.parent ol{                          //descdndent selector
+    background-color: green;
+}
+.parent ul:first-child{
+    background-color: fuchsia;
+}
+.parent ul:last-child{
+    background-color: darkorange;
+}
+
+.parent ul:last-child :nth-child(2){
+    background-color: white;
+} */
+/* .parent ul:last-child {
+    
+    li:nth-child(3)
+    {  display: inline;
+       {background-color: yellow;
+}
+} */
+/* 
+.parent ul li:last-of-type :nth-of-type(2){
+    background-color: red;
+} */
+
+/* li{
+    margin: 0px 32px;
+} */
+
+
+
+/* #parent>ul{
+    background-color: red;
+
+} */
+
+/* css selectors */
